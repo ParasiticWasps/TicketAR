@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="muguiying" size="1.000000 2.268949" />
+    <ImageTarget name="jiangnan" size="1.000000 2.153846" />
     <ImageTarget name="xique" size="1.000000 2.120275" />
   </Tracking>
 </QCARConfig>
